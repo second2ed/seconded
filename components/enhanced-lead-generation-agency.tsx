@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 }
 
 const processSteps = [
-  { title: 'Identify The Problems', description: 'We analyze your business and understand what\'s holding your current outbound system from performing. Then we create a roadmap to revamp your lead generation and boost your results.' },
+  { title: 'Identify The Problems', description: 'We analyze your business and understand what&apos;s holding your current outbound system from performing. Then we create a roadmap to revamp your lead generation and boost your results.' },
   { title: 'Define Your ICP and Create an Offer', description: 'We build your ideal customer profile (ICP) list with an irresistible offer that captures attention. If needed, we\'ll continue to revamp this and the offer to ensure our targeting is precise and backed by data.' },
   { title: 'Pipeline Creation and Lead Sourcing', description: 'Leveraging software and advanced sourcing tools, we segment and curate a list of prospects ensuring each outreach is targeted to specific needs, setting the stage for consistent, conversion-focused engagement.' },
   { title: 'Craft Personalized Outreach that Connects', description: 'Our copywriters craft personalized outreach messages, speaking directly to your prospects pain points and needs, making a genuine, human connection.' },
@@ -66,7 +66,7 @@ export function EnhancedLeadGenerationAgencyComponent() {
               Growth Relies on a Steady Stream of NEW Leads.
             </h1>
             <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-              second ed builds outbound systems for B2B businesses to bring more qualified leads to your inbox, without the guesswork…
+              second ed builds outbound systems for B2B businesses to bring more qualified leads to your inbox, without the guesswork&hellip;
             </p>
             <Button asChild size="lg" className="bg-gradient-to-r from-blue-800 to-purple-900 hover:from-blue-900 hover:to-purple-950 active:from-blue-950 active:to-purple-950 text-white font-bold py-3 px-6 rounded-full transition-colors duration-200 transform hover:scale-105">
               <Link href="https://calendly.com/second2ed/consultation">Book Your Call Now</Link>
